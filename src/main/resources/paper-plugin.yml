@@ -1,0 +1,6 @@
+name: job-censor
+version: '1'
+main: io.turbo.jobCensor.JobCensor
+api-version: '1.21'
+authors: [ TurboMaxe ]
+description: DuckyMC's Class plugin
